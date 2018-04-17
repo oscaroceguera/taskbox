@@ -19,4 +19,7 @@
 
   # Snapshot testing (https://github.com/storybooks/storybook/tree/master/addons/storyshots)
   $ yarn add --dev @storybook/addon-storyshots react-test-renderer
+
+  # Get Chromatic
+  $ yarn add react-chromatic
 ``` 
